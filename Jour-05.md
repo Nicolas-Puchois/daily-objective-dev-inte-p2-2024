@@ -20,8 +20,8 @@ Benjamin
   - [X] Faire le parcours "how-to-markdown" (Nodeschool.io)
 - [X] Comprendre l'intérêt des raccourcis clavier
   - [X] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) :
-    - [ ] Navigateur (fenêtres, onglets, navigation, etc …)
-    - [ ] Terminal (fenêtres, onglets, commandes)
+    - [X] Navigateur (fenêtres, onglets, navigation, etc …)
+    - [X] Terminal (fenêtres, onglets, commandes)
 - [X] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion (Terminal, Git, Raccourcis Clavier, Markdown)
 
 ### Optionnel pour apprendre le terminal Linux / Mac :
