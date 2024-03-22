@@ -15,7 +15,7 @@ Benjamin
     - [ ] Formatage de texte (italique, souligné, gras)
     - [ ] Code
     - [ ] Citations
-    - [ ] Tableaux
+    - [X] Tableaux
     - [X] Liens
   - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
 - [X] Comprendre l'intérêt des raccourcis clavier
