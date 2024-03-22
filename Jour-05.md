@@ -4,21 +4,21 @@ Benjamin
 
 ### Vendredi 22/03/2024
 
-- [ ] Créer son premier repo Github
+- [X] Créer son premier repo Github
 - [ ] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
-- [ ] Découverte du Markdown :
-  - [ ] Comprendre l'intérêt du Markdown
+- [X] Découverte du Markdown :
+  - [X] Comprendre l'intérêt du Markdown
   - [ ] Découvrir les balises de bases :
-    - [ ] Titres
+    - [X] Titres
     - [ ] Images
-    - [ ] Listes
+    - [X] Listes
     - [ ] Formatage de texte (italique, souligné, gras)
     - [ ] Code
     - [ ] Citations
     - [ ] Tableaux
-    - [ ] Liens
+    - [X] Liens
   - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
-- [ ] Comprendre l'intérêt des raccourcis clavier
+- [X] Comprendre l'intérêt des raccourcis clavier
   - [ ] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) :
     - [ ] Navigateur (fenêtres, onglets, navigation, etc …)
     - [ ] Terminal (fenêtres, onglets, commandes)
@@ -26,4 +26,4 @@ Benjamin
 
 ### Optionnel pour apprendre le terminal Linux / Mac :
 
-- [ ] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+- [X] Faire le wargame bandit jusqu'au niveau 5 (anglais)
