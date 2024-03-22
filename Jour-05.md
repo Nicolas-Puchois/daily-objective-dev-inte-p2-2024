@@ -8,13 +8,13 @@ Benjamin
 - [X] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
 - [X] Découverte du Markdown :
   - [X] Comprendre l'intérêt du Markdown
-  - [ ] Découvrir les balises de bases :
+  - [X] Découvrir les balises de bases :
     - [X] Titres
-    - [ ] Images
+    - [X] Images
     - [X] Listes
-    - [ ] Formatage de texte (italique, souligné, gras)
-    - [ ] Code
-    - [ ] Citations
+    - [X] Formatage de texte (italique, souligné, gras)
+    - [X] Code
+    - [X] Citations
     - [X] Tableaux
     - [X] Liens
   - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
