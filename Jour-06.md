@@ -18,23 +18,23 @@ Hachemi
   - [X] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [X] https://www.conventionalcommits.org/fr/v1.0.0/
   - [X] Renommer son dernier commit en respectant cette convention
-- [ ] Comprendre le fonctionnement des branches dans Git :
-    - [ ] Lister, changer, créer, supprimer des branches
-    - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
-- [ ] Comprendre le merge dans Git
-    - [ ] Comprendre le "fast forward"
-    - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
+- [X] Comprendre le fonctionnement des branches dans Git :
+    - [X] Lister, changer, créer, supprimer des branches
+    - [X] Quelle est la différence entre `Git switch` et `Git checkout`
+- [X] Comprendre le merge dans Git
+    - [X] Comprendre le "fast forward"
+    - [X] Quelle est la différence entre un "commit" et un "merge commit" ?
 
 #### Github
 
 - [ ] Pimper son profile Github (belle du village)
-- [ ] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
+- [X] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
 - [ ] Découvrir l'interface de Github :
     - [ ] Pull Requests
-    - [ ] Branches
-    - [ ] Issues
-    - [ ] Settings projet
-    - [ ] Settings profile
+    - [X] Branches
+    - [X] Issues
+    - [X] Settings projet
+    - [X] Settings profile
 
 ### IA
 
