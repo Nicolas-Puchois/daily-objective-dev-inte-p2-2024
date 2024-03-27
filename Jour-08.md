@@ -21,9 +21,9 @@ Hachemi
 ### NodeJS
 
 - [X] Installation de NodeJS
-- [ ] Découverte de "NPM", "Yarn" et "PNPM"
-  - [ ] Comprendre les différences entre les package managers et en choisir un
-  - [ ] Savoir faire les commandes de bases :
-    - [ ] Installer un package (local et global)
-    - [ ] Désinstaller un package (local et global)
-    - [ ] Mettre jour les packages (local et global) et le package manager
+- [X] Découverte de "NPM", "Yarn" et "PNPM"
+  - [X] Comprendre les différences entre les package managers et en choisir un
+  - [X] Savoir faire les commandes de bases :
+    - [X] Installer un package (local et global)
+    - [X] Désinstaller un package (local et global)
+    - [X] Mettre jour les packages (local et global) et le package manager
