@@ -29,7 +29,7 @@ Hachemi
 
 - [ ] Pimper son profile Github (belle du village)
 - [X] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
-- [ ] Découvrir l'interface de Github :
+- [X] Découvrir l'interface de Github :
     - [X] Pull Requests
     - [X] Branches
     - [X] Issues
