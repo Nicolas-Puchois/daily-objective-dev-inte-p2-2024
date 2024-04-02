@@ -6,13 +6,13 @@ Hachemi
 
 ### Gitflow
 
-- [ ] Découvrir Gitflow
+- [X] Découvrir Gitflow
   - [ ] Créer un cheat sheet sur Gitflow (en groupe)
 
 
 ### Github
 
-- [ ] Découverte de Github CLI
+- [X] Découverte de Github CLI
   - [ ] Installation et connexion
   - [ ] Faire le tour du propriétaire
   - [ ] Intégration de `gh` dans son workflow
