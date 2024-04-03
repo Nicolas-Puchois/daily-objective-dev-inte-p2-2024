@@ -6,11 +6,11 @@ Benjamin
 
 ### Git
 
-- [ ] Comprendre le merge dans Git
-  - [ ] Comprendre le "fast forward"
-  - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
-- [ ] Comprendre le rebase dans Git (quelle différence avec le merge ?)
-  - [ ] Savoir utiliser le `git rebase`
+- [X] Comprendre le merge dans Git
+  - [X] Comprendre le "fast forward"
+  - [X] Quelle est la différence entre un "commit" et un "merge commit" ?
+- [X] Comprendre le rebase dans Git (quelle différence avec le merge ?)
+  - [X] Savoir utiliser le `git rebase`
 
 ### IA
 
