@@ -7,15 +7,15 @@ Hachemi
 ### Gitflow
 
 - [X] Découvrir Gitflow
-  - [ ] Créer un cheat sheet sur Gitflow (en groupe)
+  - [X] Créer un cheat sheet sur Gitflow (en groupe)
 
 
 ### Github
 
 - [X] Découverte de Github CLI
-  - [ ] Installation et connexion
-  - [ ] Faire le tour du propriétaire
-  - [ ] Intégration de `gh` dans son workflow
+  - [X] Installation et connexion
+  - [X] Faire le tour du propriétaire
+  - [X] Intégration de `gh` dans son workflow
   - [ ] Finalisation de son profile Github
 
 ### NodeJS
