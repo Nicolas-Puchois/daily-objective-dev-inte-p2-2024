@@ -8,10 +8,10 @@ Benjamin
 
 - [ ] Comprendre la différence entre `git reset` et `git revert`
 - [ ] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
-- [ ] Comprendre l'utilité et le fonctionnement de `git stash`
+- [X] Comprendre l'utilité et le fonctionnement de `git stash`
 - [ ] Comprendre et utiliser le `git diff` (quelle utilité)
 - [ ] Comprendre la différence entre `git log` et `git show` + les flags principaux
-- [ ] Comprendre et utiliser le `git fetch`
+- [X] Comprendre et utiliser le `git fetch`
 
 ### Setup Workflow Git
 
