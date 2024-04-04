@@ -20,7 +20,7 @@ Benjamin
   - [X] Intégration dans son editeur / workflow
 - [X] Configurer son git :
   - [X] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
-  - [ ] Différenciateur (par ex : Delta)
+  - [X] Différenciateur (par ex : Delta)
   - [X] Aliases
   - [ ] Comprendre la différence entre config locale, globale et système
 - [X] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
