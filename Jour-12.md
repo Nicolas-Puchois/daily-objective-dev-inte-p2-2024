@@ -22,7 +22,7 @@ Benjamin
   - [X] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
   - [X] Différenciateur (par ex : Delta)
   - [X] Aliases
-  - [ ] Comprendre la différence entre config locale, globale et système
+  - [X] Comprendre la différence entre config locale, globale et système
 - [X] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
 - [ ] Savoir travailler avec `git fetch`
   - [X] À quoi sert la commande `git fetch —prune`
