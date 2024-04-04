@@ -22,7 +22,7 @@ Hachemi
     - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
 - [X] Configurer son git : 
   - [X] Editeur 
-  - [ ] Différenciateur (par ex : Delta) 
+  - [X] Différenciateur (par ex : Delta) 
   - [X] Aliases 
   - [X] Comprendre la différence entre config locale, globale et système
 
