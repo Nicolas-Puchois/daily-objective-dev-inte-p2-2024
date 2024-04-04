@@ -6,7 +6,7 @@ Benjamin
 
 ### Git :
 
-- [ ] Comprendre la différence entre `git reset` et `git revert`
+- [X] Comprendre la différence entre `git reset` et `git revert`
 - [ ] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
 - [X] Comprendre l'utilité et le fonctionnement de `git stash`
 - [X] Comprendre et utiliser le `git diff` (quelle utilité)
