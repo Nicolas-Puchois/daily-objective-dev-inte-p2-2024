@@ -19,7 +19,7 @@ Hachemi
 - [X] `.gitignore` global ou pas ?
 - [X] Comprendre quelle est la différence entre `git pull` et `git fetch`
     - [X] À quoi sert la commande `git fetch —prune`
-    - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
+    - [X] Comment configurer mon git pour que ce soit fait automatiquement ?
 - [X] Configurer son git : 
   - [X] Editeur 
   - [X] Différenciateur (par ex : Delta) 
