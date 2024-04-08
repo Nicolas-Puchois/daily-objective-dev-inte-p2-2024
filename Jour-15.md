@@ -12,9 +12,9 @@ Hachemi
     - [X] Wireframe
     - [X] Mockup
     - [X] Maquette
-- [ ] Choix d'un outil de maquettage
-- [ ] Cadrer la demande client
-- [ ] Découvrir les règles ergonomiques et d'expérience utilisateur
+- [X] Choix d'un outil de maquettage
+- [X] Cadrer la demande client
+- [X] Découvrir les règles ergonomiques et d'expérience utilisateur
 
 ### HTML :
 
