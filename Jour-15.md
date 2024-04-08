@@ -6,12 +6,12 @@ Hachemi
 
 ### Maquettage
 
-- [ ] Découvrir le maquettage d'interface d'une application
-  - [ ] Comprendre la différence entre :
-    - [ ] Zoning
-    - [ ] Wireframe
-    - [ ] Mockup
-    - [ ] Maquette
+- [X] Découvrir le maquettage d'interface d'une application
+  - [X] Comprendre la différence entre :
+    - [X] Zoning
+    - [X] Wireframe
+    - [X] Mockup
+    - [X] Maquette
 - [ ] Choix d'un outil de maquettage
 - [ ] Cadrer la demande client
 - [ ] Découvrir les règles ergonomiques et d'expérience utilisateur
