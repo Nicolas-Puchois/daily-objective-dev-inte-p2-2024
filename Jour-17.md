@@ -6,7 +6,7 @@ Benjamin
 
 ### Brief
 
-- [ ] Travailler sur le Brief Formulaire (à finir absolument avant d'attaquer le CSS !!!)
+- [X] Travailler sur le Brief Formulaire (à finir absolument avant d'attaquer le CSS !!!)
 
 ### CSS
 
